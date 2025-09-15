@@ -1,0 +1,6 @@
+{
+  "name": "FoodSnap Tutor",
+  "description": "Your personal AI chef and nutritionist. Snap a photo of your meal to get the recipe, nutritional info, and healthy tips.",
+  "requestFramePermissions": [],
+  "prompt": ""
+}
